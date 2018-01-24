@@ -5,6 +5,7 @@
 今天重新接触了SpringBoot，第一感觉是配置非常简单，方便快捷。
 
 这里不再介绍环境的搭建，可以参考以下两篇文章进行搭建。
+
 [http://blog.csdn.net/u012702547/article/details/53740047](http://blog.csdn.net/u012702547/article/details/53740047)
 [http://blog.csdn.net/Guohenghenghaha/article/details/76080229](http://blog.csdn.net/Guohenghenghaha/article/details/76080229)
 
