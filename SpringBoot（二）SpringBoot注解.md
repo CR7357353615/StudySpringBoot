@@ -52,7 +52,7 @@ public class Config {
 ## @EnableAutoConfiguration
 @EnableAutoConfiguration是SpringBoot的核心功能，自动配置，根据当前引入的jar包进行自动配置，比如引用了jackson的jar包，就会自动配置json转换。
 
-# @ComponentScan
+## @ComponentScan
 @ComponentScan是自动扫描注解，默认扫描当前包和子包，和xml配置自动扫描效果一样。这里使用的@Filter是过滤掉两个系统类
 
 ## @RestController
